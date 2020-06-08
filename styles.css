@@ -1,0 +1,41 @@
+.content {
+  text-align: center;
+  background-color: lightblue;
+}
+
+.container {
+  width: 75vw;
+}
+
+.footier {
+  background-color: lightslategray;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:link {
+  color: darkcyan;
+}
+
+a:visited {
+  color: darkgrey;
+}
+
+a:focus {
+  border-bottom: 1px solid;
+  background: #edf0eb;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #cdfeaa;
+}
+
+a:active {
+  background: #265301;
+  color: #cdfeaa;
+}
